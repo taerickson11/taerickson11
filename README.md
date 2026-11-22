@@ -1,16 +1,26 @@
-## Hi there 👋
+# Tyler Erickson
 
-<!--
-**taerickson11/taerickson11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Systems & Network Administrator | Microsoft 365
 
-Here are some ideas to get you started:
+IT professional focused on systems, networking, Microsoft 365, security, automation, compliance, and data integrity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Focus
+
+- **Systems & Networking:** Windows, infrastructure, networking, troubleshooting
+- **Microsoft 365:** Entra ID, Intune, Exchange Online, SharePoint, Teams, Defender, Purview
+- **Automation:** PowerShell, Microsoft Graph, Power Automate
+- **Security & Compliance:** Identity, endpoint security, governance, auditing, data integrity
+- **AI:** Microsoft 365 Copilot
+
+## Certifications & Training
+
+- CompTIA A+
+- Microsoft Certified: AI Business Professional (AB-730)
+- Mitel Administration for MiVoice Business
+- MiVoice Business User Administrator
+- MiCollab Advanced Messaging Rel 9.0 Administrator
+- Deploying the MiVB Solution in Microsoft Azure
+
+## About This Portfolio
+
+A collection of my technical projects, achievements, skills, certifications, and continued professional development.
