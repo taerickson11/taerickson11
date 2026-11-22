@@ -24,3 +24,6 @@ IT professional focused on systems, networking, Microsoft 365, security, automat
 ## About This Portfolio
 
 A collection of my technical projects, achievements, skills, certifications, and continued professional development.
+
+### Portfolio
+- [Technical Projects](PROJECTS.md)
